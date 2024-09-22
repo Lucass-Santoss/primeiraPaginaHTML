@@ -1,0 +1,39 @@
+body{
+     font-weight: 400;
+     font-family: Lato, Helvetica, sans-serif;
+     font-size: 15px;
+     line-height: 2.2em;
+     color: #818181;
+     margin: 0;
+}
+
+header p {
+    color: #ffffff;
+    font-weight: 600;
+    margin: 0;
+}
+
+section, footer{
+    margin: 40px;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+#pacotes .figuras figure{
+    display: inline-block;
+}
+
+#pacotes .figuras, #pacotes .videos{
+    text-align: center;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color:yellow;
+    text-shadow: 2px 2px 2px black;
+} 
